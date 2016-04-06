@@ -245,7 +245,7 @@ function create_config( )
     "time",
     "version"
     },
-	    sudo_users = {tel:155302643},--Sudo users
+	    sudo_users = {155302643},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
